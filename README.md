@@ -110,10 +110,3 @@ Let's dive into the colorful world of CashDash! 🌈
 | 16  | 2024-01-11 | Utilities      | 13000  | Electricity&Water   | expense |
 | 36  | 2024-01-03 | Freelancing    | 29900  | Creating a Website  | income  |
 
-## Notes
-
-- I forgot to commit :-(
-- At the end I just focused on putting out all necessary features and styling. Sorry, for the mess I left behind.
-- In the files I added comments and to-dos for bugs and refactoring.
-- server packages should have been installed in /server
-- If you have any questions, feel free to reach out.
